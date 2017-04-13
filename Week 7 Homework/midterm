@@ -1,0 +1,10 @@
+mouse is pressed
+draw:
+variable: if(MouseIsPressed) {mP = true 
+if MP== true { 
+counter ++
+MP = false
+}
+
+console.log (counter)
+
