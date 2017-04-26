@@ -18,3 +18,4 @@ function draw() {    // image(puppy0, 0,0);
             
     image(puppyArray[3], 0, 0);
 }
+//test
